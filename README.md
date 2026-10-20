@@ -3,7 +3,7 @@ A light weight cart carries liquid fuels, electrical box, pluming system and cap
 
 
 
-Overview
+# Overview
 
 This project develops a movable ground-support cart for equipment used to fill a rocket’s propellant tanks with nitrous oxide (N₂O) and ethanol.
 
@@ -11,7 +11,7 @@ The repository records requirements, design options, CAD models, piping and inst
 
 
 
-Project Status
+# Project Status
 
 Requirements definition and concept development.
 
@@ -19,7 +19,7 @@ Previous sketches and component suggestions are preliminary. Final dimensions, m
 
 
 
-Current Requirements
+# Current Requirements
 
 Carry one N₂O supply cylinder.
 
@@ -39,7 +39,7 @@ The mass limit includes the frame, wheels, restraints, supply containers and con
 
 
 
-Open Decisions
+# Open Decisions
 
 Required N₂O and ethanol quantities.
 
@@ -59,7 +59,7 @@ Unknown information is marked TBD — to be determined.
 
 
 
-Planned Documentation
+# Planned Documentation
 
 Requirements and scope
 
@@ -79,7 +79,7 @@ Inspection and test results
 
 
 
-Design References
+# Design References
 
 Launch Canada Rules & Requirements Guide, 2026 Revision 3
 
@@ -93,7 +93,7 @@ The team must confirm which document editions apply to its intended event.
 
 
 
-Contributions and Review
+# Contributions and Review
 
 Use issues to record questions, tasks, and proposed changes. Submit design updates through pull requests and explain the reason for each change.
 
